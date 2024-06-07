@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.549bd079.css",
-    "main.js": "/my-app/static/js/main.699665d6.js",
-    "static/js/453.07b51e5c.chunk.js": "/my-app/static/js/453.07b51e5c.chunk.js",
-    "static/media/bridge.jpg": "/my-app/static/media/bridge.9b49fe62f8cbcbd639c3.jpg",
-    "static/media/woods.jpg": "/my-app/static/media/woods.fc72c40e8195e8546561.jpg",
-    "static/media/rock.jpg": "/my-app/static/media/rock.3aea6a2d5b6be3040498.jpg",
-    "static/media/workshop.jpg": "/my-app/static/media/workshop.326b4fa2602a09804c3b.jpg",
-    "static/media/avatar_g.jpg": "/my-app/static/media/avatar_g.a11222120b9a971f8979.jpg",
-    "static/media/gondol.jpg": "/my-app/static/media/gondol.20c27b42f86c6b5e2b07.jpg",
-    "index.html": "/my-app/index.html",
-    "main.549bd079.css.map": "/my-app/static/css/main.549bd079.css.map",
-    "main.699665d6.js.map": "/my-app/static/js/main.699665d6.js.map",
-    "453.07b51e5c.chunk.js.map": "/my-app/static/js/453.07b51e5c.chunk.js.map"
+    "main.css": "/react-template/static/css/main.549bd079.css",
+    "main.js": "/react-template/static/js/main.b162e9ec.js",
+    "static/js/453.07b51e5c.chunk.js": "/react-template/static/js/453.07b51e5c.chunk.js",
+    "static/media/bridge.jpg": "/react-template/static/media/bridge.9b49fe62f8cbcbd639c3.jpg",
+    "static/media/woods.jpg": "/react-template/static/media/woods.fc72c40e8195e8546561.jpg",
+    "static/media/rock.jpg": "/react-template/static/media/rock.3aea6a2d5b6be3040498.jpg",
+    "static/media/workshop.jpg": "/react-template/static/media/workshop.326b4fa2602a09804c3b.jpg",
+    "static/media/avatar_g.jpg": "/react-template/static/media/avatar_g.a11222120b9a971f8979.jpg",
+    "static/media/gondol.jpg": "/react-template/static/media/gondol.20c27b42f86c6b5e2b07.jpg",
+    "index.html": "/react-template/index.html",
+    "main.549bd079.css.map": "/react-template/static/css/main.549bd079.css.map",
+    "main.b162e9ec.js.map": "/react-template/static/js/main.b162e9ec.js.map",
+    "453.07b51e5c.chunk.js.map": "/react-template/static/js/453.07b51e5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.549bd079.css",
-    "static/js/main.699665d6.js"
+    "static/js/main.b162e9ec.js"
   ]
 }
